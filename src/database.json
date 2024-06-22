@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1,
+    "title": "Feijoada",
+    "description": "A feijoada é um prato tradicional brasileiro feito com feijão preto e uma variedade de carnes, como carne de porco e linguiça. É servido com arroz, couve, laranja e farofa.",
+    "image": "https://example.com/feijoada.jpg",
+    "type": "Prato Principal",
+    "nationality": "Brasileira",
+    "vegan": false,
+    "gluten_free": true,
+    "lactose_free": true,
+    "ingredients": [
+      "500g de feijão preto",
+      "200g de carne seca",
+      "200g de linguiça",
+      "200g de costelinha de porco",
+      "1 cebola",
+      "3 dentes de alho",
+      "2 folhas de louro",
+      "Sal a gosto",
+      "Pimenta a gosto"
+    ],
+    "preparation": "1. Deixe o feijão de molho na véspera. \n2. Cozinhe o feijão em água até ficar macio. \n3. Em uma panela grande, refogue a cebola e o alho. \n4. Adicione as carnes e frite até dourar. \n5. Acrescente o feijão cozido, as folhas de louro, sal e pimenta. \n6. Cozinhe por mais 30 minutos até que os sabores estejam bem incorporados. \n7. Sirva com arroz, couve, laranja e farofa."
+  },
+  {
+    "id": 2,
+    "title": "Paella",
+    "description": "A paella é um prato espanhol à base de arroz, com açafrão, frango, frutos do mar e legumes. É cozida lentamente em uma panela larga e rasa, conhecida como paellera.",
+    "image": "https://example.com/paella.jpg",
+    "type": "Prato Principal",
+    "nationality": "Espanhola",
+    "vegan": false,
+    "gluten_free": true,
+    "lactose_free": true,
+    "ingredients": [
+      "400g de arroz",
+      "200g de frango",
+      "200g de frutos do mar",
+      "1 pimentão vermelho",
+      "1 tomate",
+      "1 cebola",
+      "2 dentes de alho",
+      "1 colher de chá de açafrão",
+      "1 litro de caldo de galinha",
+      "Azeite de oliva",
+      "Sal a gosto",
+      "Pimenta a gosto"
+    ],
+    "preparation": "1. Em uma paellera, aqueça o azeite e refogue o frango até dourar. \n2. Adicione a cebola, o alho, o pimentão e o tomate, e refogue até amolecer. \n3. Acrescente o arroz e o açafrão, e misture bem. \n4. Adicione o caldo de galinha e deixe cozinhar até o arroz absorver quase todo o líquido. \n5. Acrescente os frutos do mar e cozinhe por mais 10 minutos. \n6. Ajuste o sal e a pimenta, e sirva quente."
+  },
+  {
+    "id": 3,
+    "title": "Sushi",
+    "description": "O sushi é uma especialidade japonesa que consiste em arroz temperado com vinagre, combinado com peixe cru, frutos do mar, vegetais e, ocasionalmente, frutas. Os ingredientes são frequentemente enrolados em algas nori.",
+    "image": "https://example.com/sushi.jpg",
+    "type": "Prato Principal",
+    "nationality": "Japonesa",
+    "vegan": false,
+    "gluten_free": true,
+    "lactose_free": true,
+    "ingredients": [
+      "300g de arroz para sushi",
+      "400ml de água",
+      "50ml de vinagre de arroz",
+      "1 colher de sopa de açúcar",
+      "1 colher de chá de sal",
+      "200g de peixe cru (salmão, atum)",
+      "Algas nori",
+      "Vegetais (pepino, abacate)"
+    ],
+    "preparation": "1. Lave o arroz em água fria até que a água saia clara. \n2. Cozinhe o arroz com a água em uma panela com tampa. \n3. Em uma tigela, misture o vinagre de arroz, o açúcar e o sal. \n4. Misture o arroz cozido com o tempero de vinagre. \n5. Deixe o arroz esfriar antes de montar os sushis. \n6. Em uma folha de nori, espalhe uma camada fina de arroz e adicione o peixe e os vegetais. \n7. Enrole firmemente e corte em pedaços."
+  },
+  {
+    "id": 4,
+    "title": "Lasagna",
+    "description": "A lasanha é um prato italiano que consiste em camadas de massa, molho de carne (ou vegetais), molho bechamel e queijo, tudo assado até ficar borbulhante e dourado.",
+    "image": "https://example.com/lasagna.jpg",
+    "type": "Prato Principal",
+    "nationality": "Italiana",
+    "vegan": false,
+    "gluten_free": false,
+    "lactose_free": false,
+    "ingredients": [
+      "200g de massa para lasanha",
+      "500g de carne moída",
+      "1 cebola",
+      "2 dentes de alho",
+      "400g de tomate pelado",
+      "500ml de molho bechamel",
+      "200g de queijo mussarela",
+      "50g de queijo parmesão",
+      "Azeite de oliva",
+      "Sal a gosto",
+      "Pimenta a gosto"
+    ],
+    "preparation": "1. Em uma panela, aqueça o azeite e refogue a cebola e o alho. \n2. Adicione a carne moída e cozinhe até dourar. \n3. Acrescente os tomates pelados e cozinhe por 20 minutos. \n4. Em um refratário, monte a lasanha alternando camadas de massa, molho de carne, molho bechamel e queijo. \n5. Finalize com queijo parmesão. \n6. Asse em forno pré-aquecido a 180°C por 40 minutos ou até dourar."
+  },
+  {
+    "id": 5,
+    "title": "Curry de Frango",
+    "description": "O curry de frango é um prato indiano aromático feito com pedaços de frango cozidos em um molho espesso de especiarias, tomates e leite de coco. É frequentemente servido com arroz basmati ou pão naan.",
+    "image": "https://example.com/curry_de_frango.jpg",
+    "type": "Prato Principal",
+    "nationality": "Indiana",
+    "vegan": false,
+    "gluten_free": true,
+    "lactose_free": true,
+    "ingredients": [
+      "500g de frango",
+      "1 cebola",
+      "3 dentes de alho",
+      "1 pedaço de gengibre",
+      "2 tomates",
+      "200ml de leite de coco",
+      "2 colheres de sopa de curry em pó",
+      "1 colher de chá de cominho",
+      "1 colher de chá de cúrcuma",
+      "1 colher de chá de coentro em pó",
+      "Azeite de oliva",
+      "Sal a gosto",
+      "Pimenta a gosto"
+    ],
+    "preparation": "1. Em uma panela, aqueça o azeite e refogue a cebola, o alho e o gengibre. \n2. Adicione o frango e cozinhe até dourar. \n3. Acrescente as especiarias e misture bem. \n4. Adicione os tomates picados e cozinhe por mais 5 minutos. \n5. Adicione o leite de coco e cozinhe em fogo baixo por 20 minutos. \n6. Ajuste o sal e a pimenta. \n7. Sirva com arroz basmati ou pão naan."
+  },
+  {
+    "id": 6,
+    "title": "Molho Bechamel",
+    "description": "O molho bechamel, também conhecido como molho branco, é um dos molhos básicos da culinária francesa, usado como base para muitos outros molhos e pratos.",
+    "image": "https://example.com/molho_bechamel.jpg",
+    "type": "Molho",
+    "nationality": "Francesa",
+    "vegan": false,
+    "gluten_free": false,
+    "lactose_free": false,
+    "ingredients": [
+      "2 colheres de sopa de manteiga",
+      "2 colheres de sopa de farinha de trigo",
+      "2 xícaras de leite",
+      "Sal a gosto",
+      "Pimenta-do-reino a gosto",
+      "Noz-moscada a gosto (opcional)"
+    ],
+    "preparation": "1. Em uma panela média, derreta a manteiga em fogo médio. \n2. Adicione a farinha e cozinhe, mexendo constantemente com um batedor de arame, até que a mistura comece a dourar ligeiramente e tenha um aroma de nozes. Isso deve levar cerca de 2-3 minutos. \n3. Gradualmente, adicione o leite ao roux, mexendo constantemente para evitar a formação de grumos. É importante adicionar o leite aos poucos e mexer vigorosamente para obter uma consistência lisa. \n4. Continue cozinhando e mexendo até que o molho comece a engrossar. Isso levará cerca de 5-7 minutos. O molho deve cobrir as costas de uma colher quando estiver pronto. \n5. Tempere o molho com sal, pimenta-do-reino e noz-moscada a gosto. A noz-moscada é opcional, mas adiciona um sabor característico ao bechamel. \n6. Retire do fogo e utilize imediatamente ou cubra com um filme plástico diretamente sobre a superfície do molho para evitar a formação de uma película enquanto esfria.",
+    "tips": [
+      "Se o molho ficar muito espesso, você pode adicionar mais leite, um pouco de cada vez, até atingir a consistência desejada.",
+      "O bechamel pode ser a base para outros molhos. Por exemplo, adicione queijo ralado para fazer um molho Mornay ou adicione cebolas, cravos e folhas de louro para um sabor mais complexo."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pão Folha",
+    "description": "O pão folha, também conhecido como lavash, é um pão fino e macio, tradicional em várias cozinhas do Oriente Médio e do Cáucaso. É perfeito para fazer wraps e rolinhos.",
+    "image": "https://example.com/pao_folha.jpg",
+    "type": "Prato Principal",
+    "nationality": "Oriente Médio",
+    "vegan": true,
+    "gluten_free": false,
+    "lactose_free": true,
+    "ingredients": [
+      "250g de farinha de trigo",
+      "120g a 130g de água morna",
+      "25g de óleo vegetal",
+      "5g de sal"
+    ],
+    "preparation": "1. Em uma tigela grande, misture a farinha e o sal. \n2. Adicione a água morna e o azeite de oliva, e misture até formar uma massa. \n3. Sove a massa por cerca de 10 minutos, até ficar lisa e elástica. \n4. Cubra com um pano e deixe descansar por 30 a 60 minutos. \n5. Divida a massa em pequenas bolas (cerca de 8). \n6. Abra cada bola de massa em um círculo fino usando um rolo de massa e deixe descansar cobertas por um pano úmido por 15 a 30 minutos. \n6. Cozinhe cada pedaço de massa na frigideira quente por cerca de 1-2 minutos de cada lado, ou até que comece a dourar e formar bolhas. \n8. Retire da frigideira e cubra com um pano limpo para manter a maciez. \n9. Sirva quente ou em temperatura ambiente."
+  },
+  {
+    "id": 8,
+    "title": "Amor em Pedaços",
+    "description": "Doce tradicional com sabor de infância.",
+    "image": "https://example.com/amor_em_pedacos.jpg",
+    "type": "Sobremesa",
+    "nationality": "Brasileira",
+    "vegan": false,
+    "gluten_free": false,
+    "lactose_free": false,
+    "ingredients": [
+      "3 xícaras de açúcar",
+      "4 ovos (claras em neve)",
+      "1 pote de margarina (250g)",
+      "5 xícaras de trigo",
+      "Leite até dar ponto",
+      "2 colheres (sopa) de fermento"
+    ],
+    "preparation": "1. Misture o açúcar, a margarina e o trigo. \n2. Adicione o leite aos poucos até dar ponto na massa. \n3. Incorpore as claras em neve delicadamente. \n4. Adicione o fermento e misture bem. \n5. Coloque em uma forma untada e enfarinhada. \n6. Asse em forno pré-aquecido até dourar."
+  },
+  {
+    "id": 9,
+    "title": "Kuque",
+    "description": "Receita saborosa e tradicional.",
+    "image": "https://example.com/kugui.jpg",
+    "type": "Sobremesa",
+    "nationality": "Brasileira",
+    "vegan": false,
+    "gluten_free": false,
+    "lactose_free": false,
+    "ingredients": [
+      "1 xícara de manteiga",
+      "3 xícaras de açúcar",
+      "4 ovos",
+      "Meia garrafa de leite",
+      "1 colher de fermento em pó",
+      "Trigo até dar ponto"
+    ],
+    "preparation": "1. Misture a manteiga e o açúcar até formar um creme. \n2. Adicione os ovos, um de cada vez, batendo bem após cada adição. \n3. Adicione o leite e o fermento, misturando bem. \n4. Incorpore o trigo aos poucos até obter uma massa homogênea. \n5. Coloque em uma forma untada e enfarinhada. \n6. Asse em forno pré-aquecido até dourar."
+  },{
+  "id": 10,
+  "title": "Beliscão",
+  "description": "Bolo cremoso e delicioso.",
+  "image": "https://example.com/bolo_delicia.jpg",
+  "type": "Sobremesa",
+  "nationality": "Brasileira",
+  "vegan": false,
+  "gluten_free": false,
+  "lactose_free": false,
+  "ingredients": [
+    "500g de margarina cremosa",
+    "1 copo de leite morno",
+    "1 colheres (sopa) de fermento em pó",
+    "mais lou menos 1 kg de trigo"
+  ],
+  "preparation": "1. Misture todos os ingredientes até formar uma massa homogênea. \n2. Coloque em uma forma untada e enfarinhada. \n3. Asse em forno pré-aquecido até dourar. \n4. Deixe esfriar, corte em pedaços e sirva."
+}
+
+]
